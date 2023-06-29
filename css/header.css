@@ -1,0 +1,19 @@
+.info-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px 0 10px;
+}
+
+.info-bar__menu img {
+  width: 15px;
+}
+
+.info-bar__write {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.info-bar__icons img {
+  width: 15px;
+}
